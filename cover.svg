@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+  <rect width="1200" height="1200" fill="#f1f4f8"/>
+  <g font-family="PingFang SC,Heiti SC,sans-serif">
+    <text x="85" y="115" fill="#4a6b95" font-size="25" letter-spacing="5">CONNECTION CLOCK</text>
+    <text x="80" y="235" fill="#1f3a5c" font-size="78" font-weight="bold">转乘接续台</text>
+    <text x="85" y="316" fill="#5a6b80" font-size="36">走得快，也要接得上</text>
+
+    <rect x="80" y="385" width="1040" height="520" rx="30" fill="#ffffff"/>
+    <text x="130" y="460" fill="#4a6b95" font-size="30">虚构示例 · 6 个班次 · 预留 20 分钟</text>
+    <text x="130" y="578" fill="#1f3a5c" font-size="92" font-weight="bold">第1天 10:40</text>
+    <text x="130" y="638" fill="#5a6b80" font-size="30">A站 → C站 → D站 · 换乘 1 次</text>
+    <path d="M130 682h940" stroke="#d8e0ea"/>
+    <text x="130" y="752" fill="#1f3a5c" font-size="42">总历时 160 = 行驶 80 + 等待 80</text>
+    <text x="130" y="820" fill="#5a6b80" font-size="32">预留改 30 分钟：改走 A-B-D，180 分钟</text>
+
+    <text x="85" y="995" fill="#1f3a5c" font-size="34">粘贴班次 · 交汇最早到达 · 导出路线</text>
+    <text x="85" y="1060" fill="#6b7688" font-size="26">同一时区 / 班次准点 / 换乘预留自设 0–720 分钟</text>
+    <text x="85" y="1120" fill="#6b7688" font-size="24">V1.0.0 · 预留是用户假设，不是运营方标准</text>
+  </g>
+</svg>
